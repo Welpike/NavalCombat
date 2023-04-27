@@ -1,5 +1,6 @@
 #include <iostream>
 
+#include "includes/game.hpp"
 #include "includes/utils.hpp"
 
 #include "includes/point.hpp"
